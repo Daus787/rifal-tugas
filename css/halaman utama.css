@@ -89,7 +89,7 @@ header {
 .search-bar {
   display: flex;
   gap: 10px;
-  background: white;
+  background: transparent;
   padding: 5px;
   border-radius: 5px;
   width: 300px;
